@@ -1,0 +1,33 @@
+﻿生成启动时间为 2020/4/6 19:10:34。
+     1>项目“C:\Users\61003\documents\visual studio 2013\Projects\Digital_Image_Processing\Digital_Image_Processing\Digital_Image_Processing.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\OpenCV\opencv\build\x64\vc12\lib /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt lab6_func.cpp
+         lab6_func.cpp
+     1>D:\OpenCV\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\OpenCV\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\OpenCV\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>lab6_func.cpp(187): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>lab6_func.cpp(188): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>lab6_func.cpp(199): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>lab6_func.cpp(200): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>lab6_func.cpp(410): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>lab6_func.cpp(410): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>lab6_func.cpp(411): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>lab6_func.cpp(411): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>lab6_func.cpp(459): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+     1>lab6_func.cpp(493): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>lab6_func.cpp(494): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\61003\documents\visual studio 2013\Projects\Digital_Image_Processing\x64\Debug\Digital_Image_Processing.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\OpenCV\opencv\build\x64\vc12\lib opencv_world310.lib opencv_world310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\61003\documents\visual studio 2013\Projects\Digital_Image_Processing\x64\Debug\Digital_Image_Processing.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\61003\documents\visual studio 2013\Projects\Digital_Image_Processing\x64\Debug\Digital_Image_Processing.lib" /MACHINE:X64 x64\Debug\ComplexNumber.obj
+         x64\Debug\lab2_func.obj
+         x64\Debug\lab3_func.obj
+         x64\Debug\lab4_func.obj
+         x64\Debug\lab5_func.obj
+         x64\Debug\lab6_func.obj
+         x64\Debug\main.obj
+         Digital_Image_Processing.vcxproj -> C:\Users\61003\documents\visual studio 2013\Projects\Digital_Image_Processing\x64\Debug\Digital_Image_Processing.exe
+     1>已完成生成项目“C:\Users\61003\documents\visual studio 2013\Projects\Digital_Image_Processing\Digital_Image_Processing\Digital_Image_Processing.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.81
